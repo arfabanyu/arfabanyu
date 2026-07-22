@@ -1,67 +1,76 @@
-<div align="center">
-  <a href="https://github.com/arfabanyu">
-    <img src="assets/ArfaBanyuSantoro.png" alt="Arfa Banyu Santoro" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/arfabanyu">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=73C2FB&center=true&vCenter=true&width=435&lines=Junior+Full-Stack+Web+Developer;Currently+studying+at+SMKN+1+Jakarta;2%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=200&width=2000&bannerText=Arfa Banyu Santoro" />
+<hr>
+<div style="display: flex; gap: 1rem;">
+  <div>
+    <h3>About Me</h3>
+    <p>
+      > <i>Software Engineer • Designer • Lifelong Learner</i>
+      <br>
+      I'm a Software Engineering student from Indonesia who enjoys building software with clean architecture and thoughtful design.
+      <br>
+      Currently focused on full-stack web development, algorithms, and creating products that people actually use.
+    </p>
+    
+  </div>
+  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRyZThoajJzeDVneXVyZTFxdDUzbGZraHRqdnpsZzdha25zNXcwcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y5K6NoQgqKeFtYOds0/giphy.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=arfabanyu&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="150px" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfabanyu&layout=compact&theme=tokyonight&hide_border=true" height="150px" alt="GitHub Streak"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=arfabanyu&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150px" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,vite,php,laravel,postgresql,mysql,prisma,kotlin,git,github,windows,figma&perline=9" />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://github.com/arfabanyu?tab=repositories">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/arfabanyu?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/arfabanyu?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/arfabanyu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img alt="Github Stats" src="https://github-stats-extended.vercel.app/api?username=arfabanyu&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=algolia" height="150px" />
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img alt="Github Stats" src="https://github-stats-extended.vercel.app/api/top-langs?username=arfabanyu&layout=donut&hide_title=true&langs_count=4&theme=algolia" height="150px" />
+  </a>
+
+</div>
+
+###
+
+## Outside of Code
+
+When I'm not coding, you'll probably find me...
+
+- Designing visuals
+- Reading manhwa
+- Learning something new
+- Playing games
+- Thinking about better systems
+
+## Current Focus
+
+- Building a stronger portfolio
+- Learning algorithms & data structures
+- Preparing for software engineering internship
+- Exploring system design
+
+###
+
+<img src="https://gitlyy.vercel.app/api/contribution?username=arfabanyu&hide_border=true"/>
+
+###
+
+<div data-importer="socials" align="center">
+  <a href='https://linkedin.com/in/arfabanyusantoro'>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href='https://youtube.com/@arfabanyu'>
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href='https://instagram.com/arfabanyu'>
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href='mailto:banyuarfa1122@gmail.com'>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
+<br>
+<p align='center'>Thanks for stopping by.</p>
