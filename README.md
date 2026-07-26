@@ -1,19 +1,15 @@
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=200&width=2000&bannerText=Arfa Banyu Santoro" />
 <hr>
-<div style="display: flex; gap: 1rem;">
-  <div>
-    <h3>About Me</h3>
-    <p>
-      > <i>Software Engineer • Designer • Lifelong Learner</i>
-      <br>
-      I'm a Software Engineering student from Indonesia who enjoys building software with clean architecture and thoughtful design.
-      <br>
-      Currently focused on full-stack web development, algorithms, and creating products that people actually use.
-    </p>
-    
-  </div>
-  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRyZThoajJzeDVneXVyZTFxdDUzbGZraHRqdnpsZzdha25zNXcwcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y5K6NoQgqKeFtYOds0/giphy.gif"  />
-</div>
+
+### About Me
+
+  <img align='right' data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRyZThoajJzeDVneXVyZTFxdDUzbGZraHRqdnpsZzdha25zNXcwcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y5K6NoQgqKeFtYOds0/giphy.gif"  />
+
+> Software Engineer • Designer • Lifelong Learner
+
+I'm a Software Engineering student from Indonesia who enjoys building software with clean architecture and thoughtful design. Currently focused on full-stack web development, algorithms, and creating products that people actually use.
+
+ <br clear='both'>
 
 ###
 
