@@ -1,5 +1,4 @@
-<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=200&width=2000&bannerText=Arfa Banyu Santoro" />
-<hr>
+![Banner](https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=200&width=2000&bannerText=Arfa%20Banyu%20Santoro)
 
 ### About Me
 
