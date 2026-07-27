@@ -6,7 +6,12 @@
 
 > Software Engineer • Designer • Lifelong Learner
 
-I'm a Software Engineering student from Indonesia who enjoys building software with clean architecture and thoughtful design. Currently focused on full-stack web development, algorithms, and creating products that people actually use.
+I'm a Software Engineering student from Indonesia who enjoys designing and building maintainable software. I primarily work with React, Laravel, TypeScript, and PostgreSQL, while continuously improving my understanding of algorithms and system design to create software that is both scalable and practical.
+
+- 📍 Jakarta, Indonesia
+- 🎓 Software Engineering Student @ SMKN 1 Jakarta
+- 🏆 1st Place, LKS Web Technologies Jakarta Pusat
+- 🚀 Building scalable full stack applications with React, Laravel, and PostgreSQL.
 
  <br clear='both'>
 
