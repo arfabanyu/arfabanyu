@@ -2,7 +2,7 @@
 
 ### About Me
 
-  <img align='right' data-importer="image" height="270" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRyZThoajJzeDVneXVyZTFxdDUzbGZraHRqdnpsZzdha25zNXcwcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y5K6NoQgqKeFtYOds0/giphy.gif"  />
+  <img align='right' data-importer="image" height="260" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRyZThoajJzeDVneXVyZTFxdDUzbGZraHRqdnpsZzdha25zNXcwcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y5K6NoQgqKeFtYOds0/giphy.gif"  />
 
 > Software Engineer • Designer • Lifelong Learner
 
