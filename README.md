@@ -1,4 +1,4 @@
-![Banner](https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=200&width=2000&bannerText=Arfa%20Banyu%20Santoro)
+![Banner](https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=200&width=2000&bannerText=ARFA%20BANYU%20SANTORO)
 
 ### About Me
 
